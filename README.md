@@ -6,7 +6,7 @@
 - The API documentation for the Bellande Step can be found on [Bellande Robotics & Sensors Research Innovation Center](https://robotics-sensors.github.io), a platform dedicated to open-source and semi-open-source APIs.
 
 ### Model Downloads
-- For downloading the Bellande Step Model, please visit [Bellande Artificial Intelligence & Computer Vision Research Innovation Center Website](https://artificial-intelligence-computer-vision.github.io)
+- For downloading the Bellande Search Path Models, please visit [Bellande Artificial Intelligence & Computer Vision Research Innovation Center Website](https://artificial-intelligence-computer-vision.github.io)
 
 ### API Documentation
 - **2D Space**: Users can download the 2D model from [Hugging Face - Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://huggingface.co/Artificial-Intelligence-Computer-Vision)
